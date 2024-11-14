@@ -35,7 +35,7 @@ Con el propósito de visualizar la arquitectura de la información, se ha elabor
 
 ## 3. Diccionario de Datos.
 
-Con el objetivo de fomentar una interpretación unívoca de los datos, se ha creado un diccionario de datos que sirva como referente terminológico, al cual se puede acceder mediante el siguiente link.
+Con el objetivo de fomentar una interpretación unívoca de los datos, se ha creado un diccionario de datos que sirva como referente terminológico, al cual se puede acceder mediante el siguiente link: [Diccionariodedatos.md](https://github.com/jdbaquero84/NY_cabs_consultant/blob/ae71847920692e146845ccd6fe6ac24f9a926a62/Diccionariodedatos.md)
 
 ## 4. Pipelines ETL. 
 
