@@ -56,3 +56,36 @@ Indica el precio por milla dentro de cada viaje. Es de tipo float64.
 
 **Speed_ml/min**:
 Indica la velocidad dentro del viaje en millas por minuto. Es de tipo float64. 
+
+## **Energía USA**
+Este diccionario de datos corresponde al conjunto de datos proveniente de la Administración de Energía de EE.UU y abarca de 1980 a 2020, focalizado sólo en Estados Unidos. 
+
+**Country**:
+Indica el país del que se toman los datos.
+
+**Energy_type**:
+Indica la fuente de energía. 
+
+**Year**:
+Indica el año en que se tomó la información. 
+
+**Energy_consumption**: 
+Indica la cantidad de consumo de la fuente de energía que se está midiendo. Se mide en Quad BTU.
+
+**Energy_production**:
+Indica la cantidad de energía que se produce de la fuente de energía que se está midiendo. Se mide en Quad BTU.
+
+**GDP**:
+Indica Producto Interno Bruto expresado en miles de millones de dólares de 2015 
+
+**Population**:
+Indica la población del país expresado en millones.
+
+**Energy_intensity_per_capita**:
+Muestra cuánta energía se consume por persona. Se mide en millones de BTU por persona.
+
+**Energy_intensity_by_GDP**:
+Muestra el gasto de energia en relación con el Producto Interno Bruto. Se mide en 1000 BTU por dólar en el Producto Interno Bruto. 
+
+**CO2_emission**: 
+Muestra la cantidad de CO2 que se emite, medido en millones de toneladas métricas. 
