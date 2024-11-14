@@ -61,31 +61,82 @@ Indica la velocidad dentro del viaje en millas por minuto. Es de tipo float64.
 Este diccionario de datos corresponde al conjunto de datos proveniente de la Administración de Energía de EE.UU y abarca de 1980 a 2020, focalizado sólo en Estados Unidos. 
 
 **Country**:
-Indica el país del que se toman los datos.
+Indica el país del que se toman los datos. Es de tipo object.
 
 **Energy_type**:
-Indica la fuente de energía. 
+Indica la fuente de energía. Es de tipo object.
 
 **Year**:
-Indica el año en que se tomó la información. 
+Indica el año en que se tomó la información. Es de tipo int64
 
 **Energy_consumption**: 
-Indica la cantidad de consumo de la fuente de energía que se está midiendo. Se mide en Quad BTU.
+Indica la cantidad de consumo de la fuente de energía que se está midiendo. Se mide en Quad BTU. Es de tipo float64.
 
 **Energy_production**:
-Indica la cantidad de energía que se produce de la fuente de energía que se está midiendo. Se mide en Quad BTU.
+Indica la cantidad de energía que se produce de la fuente de energía que se está midiendo. Se mide en Quad BTU. Es de tipo float64.
 
 **GDP**:
-Indica Producto Interno Bruto expresado en miles de millones de dólares de 2015 
+Indica Producto Interno Bruto expresado en miles de millones de dólares de 2015. Es de tipo float64. 
 
 **Population**:
-Indica la población del país expresado en millones.
+Indica la población del país expresado en millones. Es de tipo float64.
 
 **Energy_intensity_per_capita**:
-Muestra cuánta energía se consume por persona. Se mide en millones de BTU por persona.
+Muestra cuánta energía se consume por persona. Se mide en millones de BTU por persona. Es de tipo float64.
 
 **Energy_intensity_by_GDP**:
-Muestra el gasto de energia en relación con el Producto Interno Bruto. Se mide en 1000 BTU por dólar en el Producto Interno Bruto. 
+Muestra el gasto de energia en relación con el Producto Interno Bruto. Se mide en 1000 BTU por dólar en el Producto Interno Bruto. Es de tipo float64.
 
 **CO2_emission**: 
-Muestra la cantidad de CO2 que se emite, medido en millones de toneladas métricas. 
+Muestra la cantidad de CO2 que se emite, medido en millones de toneladas métricas. Es de tipo float64. 
+
+## **Ruido modificado**
+Este dataset retoma SONYC Urban Sound Tagging (SONYC-UST), que es un conjunto de datos multietiqueta creado a partir de una red de sensores acústicos urbanos, desarrollado por un equipo de investigadores, incluyendo a Mark Cartwright, Jason Cramer, Ana Elisa Mendez Mendez, Yu Wang, Ho-Hsiang Wu, Vincent Lostanlen, Magdalena Fuentes, Graham Dove, Charlie Mydlarz, Justin Salamon, Oded Nov y Juan Pablo Bello.
+
+**Borough**:
+Indica el barrio de Nueva York en el que se encuentra el sensor. 1 corresponde a Manhattan, 3 a Brooklyn, 4 a Queens. Es de tipo int64.
+
+**Block**: 
+El bloque de Nueva York en el que se encuentra el sensor. Es de tipo int64.
+
+**Latitude**: 
+La latitud de la coordenada del bloque donde se encuentra el sensor. Es de tipo float64.
+
+**Longitude**:
+La longitud de la coordenada del bloque donde se encuentra el sensor. Es de tipo float64.
+
+**Year**:
+El año en el que se hizo la medición. Es de tipo int64.
+
+**Week**:
+La semana en la que se hizo la medición. Es de tipo int64.
+
+**Day**: 
+El día en que se hizo la medición. Es de tipo int64. 
+
+**Hour**: 
+La hora en que se hizo la medición. Es de tipo int64.
+
+**5-1_car-horn_presence**:
+Variable dummy que indica presencia de bocinas de autos en la medición. 1 indica presencia del sonido y 0 indica ausencia. Es de tipo int64.
+
+**5-2_car-alarm_presence**:
+Variable dummy que indica presencia de alarmas de autos en la medición. 1 indica presencia del sonido y 0 indica ausencia. Es de tipo int64.
+
+**5-3_siren_presence**: 
+Variable dummy que indica presencia de sirenas de vehículos en la medición. 1 indica presencia del sonido y 0 indica ausencia. Es de tipo int64.
+
+**5-4_reverse-beeper_presence**: 
+Variable dummy que indica presencia de alarmas de reversa de vehículos en la medición. 1 indica presencia del sonido y 0 indica ausencia. Es de tipo int64.
+
+**5-X_other-unknown-alert-signal_presence**: 
+Variable dummy que indica presencia alertas de presencia posiblemente atribuibles a autos en la medición. 1 indica presencia del sonido y 0 indica ausencia. Es de tipo int64.
+
+**6-2_mobile-music_presence**: 
+Variable dummy que indica presencia de autos reproduciendo música a alto volumen en la medición. 1 indica presencia del sonido y 0 indica ausencia. Es de tipo int64.
+
+**6-3_ice-cream-truck_presence**:
+Variable dummy que indica presencia de sonidos del camión de helados en la medición. 1 indica presencia del sonido y 0 indica ausencia. Es de tipo int64.
+
+**Distritos**: 
+Indica el nombre del distrito en el que se hizo la medición. Es de tipo object. 
