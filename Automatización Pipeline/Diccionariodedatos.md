@@ -183,3 +183,21 @@ Fecha. Está en formato datetime.
 
 **Year**: 
 Año. Está en formato string. 
+
+**Month**: 
+Mes. Está en formato string. 
+
+**Month_name**: 
+Nombre del mes. Está en formato string. 
+
+**Day**: 
+Dia. Está en formato string. 
+
+**Day_name**: 
+Nombre del día. Está en formato string. 
+
+**Week**:
+Número de semana. Está en formato integer.
+
+**Is_weekend**: 
+Variable dummy que indica con 0 si no es fin de semana y con 1 si es fin de semana. Está en formato boolean. 
