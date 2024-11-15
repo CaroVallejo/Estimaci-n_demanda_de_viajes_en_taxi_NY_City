@@ -62,7 +62,8 @@ El flujo de trabajo propuesto se fundamenta en el empleo de tecnologías para el
 
 Se presentará una descripción detallada de los procesos llevados a cabo. Se invita al lector a complementar esta información visualizando el video adjunto 
 
-![Video](<https://youtu.be/7h1gJ67N4ko>)
+[![Ver en YouTube](https://youtu.be/7h1gJ67N4ko>)
+
 
 ## 7. Minimun Viable Product (MVP) de dashboard.
 
