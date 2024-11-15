@@ -61,7 +61,8 @@ El flujo de trabajo propuesto se fundamenta en el empleo de tecnologías para el
 ## 6. Carga incremental automatizada.
 
 Se presentará una descripción detallada de los procesos llevados a cabo. Se invita al lector a complementar esta información visualizando el video adjunto 
-![Video](<https://drive.google.com/drive/folders/1UkN2WG47fIwa4SFceZa2dGPpe14YrPVi>
+
+![Video](<https://drive.google.com/file/d/1azY2yD8W4Zm6sbNKtfYKFAZAEYhGjDH6/view?usp=sharing>)
 
 ## 7. Minimun Viable Product (MVP) de dashboard.
 
