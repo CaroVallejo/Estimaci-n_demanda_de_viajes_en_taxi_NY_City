@@ -1,7 +1,10 @@
 # **Diccionario de datos**
 
-## **Combined taxi data**
+## **TaxiTrip_Normalized**
 Este diccionario de datos corresponde al conjunto de datos recuperados de la página web de la comisión de taxis y limusinas de New York City tras haber pasado por el proceso de ETL con la función implementada para ello en Google Cloud Storage. Está compuesto por 18 columnas, las cuales son:
+
+**Trip_id**: 
+Id único que identifica cada uno de los viajes de la base de datos. Es de tipo string.
 
 **VendorID**:
 Proveedor de servicios de telefonía móvil. 1 corresponde a Creative Mobile Technologies, LLC. 2 corresponde a Verifone Inc. Es de tipo int32. 
@@ -56,6 +59,9 @@ Indica el precio por milla dentro de cada viaje. Es de tipo float64.
 
 **Speed_ml/min**:
 Indica la velocidad dentro del viaje en millas por minuto. Es de tipo float64. 
+
+**Calendar_id**:
+Código único que enlaza con la tabla calendario. Es de tipo integer.
 
 ## **Energía USA**
 Este diccionario de datos corresponde al conjunto de datos proveniente de la Administración de Energía de EE.UU y abarca de 1980 a 2020, focalizado sólo en Estados Unidos. 
@@ -140,3 +146,40 @@ Variable dummy que indica presencia de sonidos del camión de helados en la medi
 
 **Distritos**: 
 Indica el nombre del distrito en el que se hizo la medición. Es de tipo object. 
+
+**Unique_id**:
+ID único de cada registro existente en la base de datos.
+
+
+## **Location**
+Este dataset incluye los datos relacionados con lugares, y enlaza con el resto de datasets.
+
+**LocationID**:
+ID único que indica las ubicaciones de los datasets. Es de tipo integer.
+
+**Borough**
+Indica el distrito de Nueva York. Es de tipo string.
+
+**Zone**:
+Indica la zona de la ciudad de Nueva York. Es de tipo string.
+
+**Service_Zone**:
+Indica las zonas de servicio de taxi de la ciudad de Nueva York. Es de tipo string.
+
+**Shape_leng**:
+Brinda información respecto a la ubicación. Es de tipo integer. 
+
+**Shape_Area**:
+Brinda información respecto a la ubicación. Es de tipo integer.
+
+## **Calendar**
+Este dataset incluye los datos relacionados con fechas y enlaza con el resto de datasets.
+
+**CalendarID**: 
+Código identificador de registros que permite enlazar con las demás tablas. Es de tipo integer.
+
+**Date**: 
+Fecha. Está en formato datetime. 
+
+**Year**: 
+Año. Está en formato string. 
