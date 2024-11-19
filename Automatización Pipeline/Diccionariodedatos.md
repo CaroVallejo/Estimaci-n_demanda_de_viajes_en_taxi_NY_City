@@ -16,7 +16,6 @@ Este diccionario de datos corresponde al conjunto de datos recuperados de la pá
 Id único que identifica cada uno de los viajes de la base de datos. Es de tipo string.
 
 **VendorID**:
->>>>>>> b8e3cd869b2cc95f6ff3ab3d9e2d2c3d46b034b1
 Proveedor de servicios de telefonía móvil. 1 corresponde a Creative Mobile Technologies, LLC. 2 corresponde a Verifone Inc. Es de tipo int32. 
 
 *Date*:
