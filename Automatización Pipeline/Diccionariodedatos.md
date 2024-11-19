@@ -22,6 +22,9 @@ Mes en el que se dió el servicio. Es de tipo object.
 **Day_name**:
 Día de la semana correspondiente a cada fecha. Es de tipo object. 
 
+**Taxi_type**: 
+Variable dummy que indica si es ecológico o no el vehículo. 0 es para vehículos tradicionales y 1 es para vehículos ecológicos.
+
 **pickup_datetime**:
 Fecha y hora en la que se recogió al usuario de taxi. Es de tipo datetime64[us].
 
