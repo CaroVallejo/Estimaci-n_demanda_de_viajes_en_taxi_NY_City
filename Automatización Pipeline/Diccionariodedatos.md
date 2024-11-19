@@ -1,6 +1,6 @@
 # *Diccionario de datos*
 
-<<<<<<< HEAD
+
 ## *TaxiTrip_Normalized*
 Este diccionario de datos corresponde al conjunto de datos recuperados de la página web de la comisión de taxis y limusinas de New York City tras haber pasado por el proceso de ETL con la función implementada para ello en Google Cloud Storage. Está compuesto por 18 columnas, las cuales son:
 
