@@ -151,44 +151,6 @@ Indica el nombre del distrito en el que se hizo la medición. Es de tipo object.
 **Unique_id**:
 ID único de cada registro existente en la base de datos.
 
-
-## *Location*
-Este dataset incluye los datos relacionados con lugares, y enlaza con el resto de datasets.
-
-**LocationID**:
-ID único que indica las ubicaciones de los datasets. Es de tipo integer.
-
-**Borough**:
-Indica el distrito de Nueva York. Es de tipo string.
-
-**Zone**:
-Indica la zona de la ciudad de Nueva York. Es de tipo string.
-
-**Service_Zone**:
-Indica las zonas de servicio de taxi de la ciudad de Nueva York. Es de tipo string.
-
-**Shape_leng**:
-Brinda información respecto a la ubicación. Es de tipo integer. 
-
-**Shape_Area**:
-Brinda información respecto a la ubicación. Es de tipo integer.
-
-## *Calendar*
-Este dataset incluye los datos relacionados con fechas y enlaza con el resto de datasets.
-
-**CalendarID**: 
-Código identificador de registros que permite enlazar con las demás tablas. Es de tipo integer.
-
-**Date**: 
-Fecha. Está en formato datetime. 
-
-**Year**: 
-Año. Está en formato string.
-
-**Unique_id**:
-ID único de cada registro existente en la base de datos.
-
-
 ## **Location**
 Este dataset incluye los datos relacionados con lugares, y enlaza con el resto de datasets.
 
