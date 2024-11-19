@@ -4,51 +4,43 @@
 ## *TaxiTrip_Normalized*
 Este diccionario de datos corresponde al conjunto de datos recuperados de la página web de la comisión de taxis y limusinas de New York City tras haber pasado por el proceso de ETL con la función implementada para ello en Google Cloud Storage. Está compuesto por 18 columnas, las cuales son:
 
-*Trip_id*: 
-Id único que identifica cada uno de los viajes de la base de datos. Es de tipo string.
-
-*VendorID*:
-=======
-**TaxiTrip_Normalized**
-Este diccionario de datos corresponde al conjunto de datos recuperados de la página web de la comisión de taxis y limusinas de New York City tras haber pasado por el proceso de ETL con la función implementada para ello en Google Cloud Storage. Está compuesto por 18 columnas, las cuales son:
-
 **Trip_id**: 
 Id único que identifica cada uno de los viajes de la base de datos. Es de tipo string.
 
 **VendorID**:
 Proveedor de servicios de telefonía móvil. 1 corresponde a Creative Mobile Technologies, LLC. 2 corresponde a Verifone Inc. Es de tipo int32. 
 
-**Date*:
+**Date**:
 Fecha en la que se dió el servicio. Indica año, mes y dia, en formato AAAA-MM-DD. Es de tipo object. 
 
-## **Year*:
+**Year**:
 Año en el que se dió el servicio. Es de tipo int32. 
 
-## **Month*:
+**Month**:
 Mes en el que se dió el servicio. Es de tipo object. 
 
-## **Day_name*:
+**Day_name**:
 Día de la semana correspondiente a cada fecha. Es de tipo object. 
 
-## *pickup_datetime*:
+**pickup_datetime**:
 Fecha y hora en la que se recogió al usuario de taxi. Es de tipo datetime64[us].
 
-## *PULocationID*:
+**PULocationID**:
 Zona de taxi según la taxi and limousine commission en la que se activó el servicio. Es de tipo int32.
 
-*Time_slot*: 
+**Time_slot**: 
 Rango horario en que se dió el servicio de taxis. Presentó errores durante la normalización. Es de tipo int32.
 
-*Dropoff_datetime*:
+**Dropoff_datetime**:
 Fecha y hora en la que se dejó al usuario de taxi en su destino. Es de tipo datetime64[us].
 
-*DOLocationID*:
+**DOLocationID**:
 Zona de taxi según la taxi and limousine commission en la que se finalizó el servicio. Es de tipo int32.
 
-*Tolls*:
+**Tolls**:
 Variable dummy que indica la presencia o ausencia de peajes en el trayecto en que se dió el servicio. 1 indica presencia de peajes, 0 indica ausencia. Es de tipo int64.
 
-*Total_amount*:
+**Total_amount**:
 Tarifa total que el usuario pagó al finalizar el servicio. Es de tipo float64.
 
 **Payment_type**:
@@ -69,11 +61,6 @@ Indica el precio por milla dentro de cada viaje. Es de tipo float64.
 **Speed_ml/min**:
 Indica la velocidad dentro del viaje en millas por minuto. Es de tipo float64. 
 
-**Calendar_id**:
-Código único que enlaza con la tabla calendario. Es de tipo integer.
-
-## *Energía USA*
-=======
 **Calendar_id**:
 Código único que enlaza con la tabla calendario. Es de tipo integer.
 
