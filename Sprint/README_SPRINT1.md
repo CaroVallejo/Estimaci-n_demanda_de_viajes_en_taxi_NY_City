@@ -4,7 +4,7 @@
 ## 1. ¿Quienes Somos?:
 
 <p align="center">
-    <img src="(https://github.com/jdbaquero84/NY_cabs_consultant/blob/7107c08ca7e260eb2952ba3be2c6aeb543567935/src/LogoDatalk.JPG)" " width="250">
+    <img src="https://github.com/jdbaquero84/NY_cabs_consultant/blob/7107c08ca7e260eb2952ba3be2c6aeb543567935/src/LogoDatalk.JPG" width="250">
 </p>
 
 En Datalk somos especialistas en transformar datos en conocimiento accionable, a través de soluciones personalizadas ,ayudamos a las organizaciones a optimizar sus procesos, mejorar la toma de decisiones y alcanzar sus objetivos estratégicos. Contamos con un equipo multidisciplinario de expertos en ciencia de datos, machine learning e inteligencia artificial,  además de ofrecer  un portafolio de servicios completo en cuanto a tratamiento de datos. (Pegar imagen equipo de trabajo)
