@@ -1,7 +1,7 @@
 # Semana 2 (Proyecto Final taxis_NY)
 
 <div style="display: flex; justify-content:space-between;">
-        <img src="src/WhatsApp Image 2024-11-14 at 13.42.47.jpeg" alt="Imagen 3" width="800" height="350">
+        <img src="https://github.com/jdbaquero84/NY_cabs_consultant/blob/56f3a12675d9d6766d82834afe4aec5ba782ef81/src/WhatsApp%20Image%202024-11-14%20at%2013.42.47.jpeg" alt="Imagen 3" width="800" height="350">
 </div>
 </br>
 
@@ -43,7 +43,7 @@ La presente ilustración gráfica detalla el flujo de trabajo ETL desarrollado. 
 
 
 <div style="display: flex; justify-content:space-between;">
-        <img src="src/WhatsApp Image 2024-11-14 at 13.42.02.jpeg" alt="Imagen 3" width="800" height="350">
+        <img src="https://github.com/jdbaquero84/NY_cabs_consultant/blob/56f3a12675d9d6766d82834afe4aec5ba782ef81/src/WhatsApp%20Image%202024-11-14%20at%2013.42.02.jpeg" alt="Imagen 3" width="800" height="350">
 </div>
 </br>
 
@@ -53,7 +53,7 @@ La presente ilustración gráfica detalla el flujo de trabajo ETL desarrollado. 
 El flujo de trabajo propuesto se fundamenta en el empleo de tecnologías para el manejo y análisis de grandes volúmenes de datos. Inicialmente, se llevará a cabo la ingesta y transformación de los datos, los cuales serán almacenados en un Data Warehouse. Posteriormente, se aplicarán técnicas de Machine Learning para desarrollar modelos predictivos y descriptivos. Finalmente, se utilizará la herramienta PowerBI para construir un panel de control interactivo, que permitirá visualizar los resultados de manera clara y concisa.
 
 <div style="display: flex; justify-content:space-between;">
-        <img src="src/WhatsApp Image 2024-11-14 at 13.41.39.jpeg" alt="Imagen 3" width="800" height="350">
+        <img src="https://github.com/jdbaquero84/NY_cabs_consultant/blob/56f3a12675d9d6766d82834afe4aec5ba782ef81/src/WhatsApp%20Image%202024-11-14%20at%2013.41.39.jpeg" alt="Imagen 3" width="800" height="350">
 </div>
 </br>
 
@@ -62,8 +62,7 @@ El flujo de trabajo propuesto se fundamenta en el empleo de tecnologías para el
 
 Se presentará una descripción detallada de los procesos llevados a cabo. Se invita al lector a complementar esta información visualizando el video adjunto 
 
-[![Ver en YouTube](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://youtu.be/7h1gJ67N4ko>)
-
+[![Ver en YouTube]](https://youtu.be/7h1gJ67N4ko>)
 
 
 ## 7. Minimun Viable Product (MVP) de dashboard.
