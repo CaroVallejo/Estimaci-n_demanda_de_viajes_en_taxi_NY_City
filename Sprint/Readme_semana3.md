@@ -35,7 +35,7 @@ La implementación de un modelo de machine learning para predecir la cantidad de
 
 Con el objetivo de optimizar la gestión de flotas de taxis y contribuir a la toma de decisiones informadas en el sector del transporte individual de pasajeros, se desarrolló un dashboard interactivo que permite monitorear la demanda de taxis ecologicos y tradicionales. 
  Los KPIs implementados en esta herramienta fueron cuidadosamente seleccionados para evaluar el desempeño del sistema en términos de eficiencia operativa, impacto ambiental y rentabilidad. A través de la visualización de datos en paneles interactivos, se busca facilitar la identificación de oportunidades de mejora y la optimización de los recursos.
- Para acceder al Dashboard haga click aqui _______________________________________________________________
+ Para acceder al Dashboard haga click aqui: https://github.com/jdbaquero84/NY_cabs_consultant/blob/38307f85f7c2435d2e76064736e938d1fa513dc8/Dashboard%20sprint%20final.pbix
 
  ## 6.Disponibilidad del Modelo en Linea :
 
