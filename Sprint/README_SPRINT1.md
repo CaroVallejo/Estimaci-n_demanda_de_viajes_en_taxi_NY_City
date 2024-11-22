@@ -74,8 +74,9 @@ Seleccionamos los siguientes KPI para el proyecto, junto con sus fórmulas de c�
 
 Evaluamos y seleccionamos las herramientas, lenguajes de programación y plataformas que mejor se adaptarían a las necesidades del proyecto.
 
-![Diagrama explicativo](src/stack_tecnologico.png)
-
+<p align="center">
+    <img src="https://github.com/jdbaquero84/NY_cabs_consultant/blob/9ad9ba13fa15493a6e84304a2c9dff5d063db4e4/src/stack_tecnologico.png" width="250">
+</p>
 
  ## 10. Metodología y Planificación:
    -  Metodología: Se utiliza SCRUM, un  marco de trabajo ágil, a través del cual un equipo pueden abordar problemas complejos a la vez que se entregan productos con el máximo valor. Es un enfoque más flexible e iterativo que permite responder y adaptarse continuamente al entorno para construir el mejor producto final para el cliente.
