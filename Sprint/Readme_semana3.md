@@ -1,7 +1,7 @@
 # Semana 3 (Proyecto Final Taxis NY)
 
 <div style="display: flex; justify-content:space-between;">
-        <img src="" alt="Imagen 3" width="800" height="350">
+        <img src="https://github.com/jdbaquero84/NY_cabs_consultant/blob/948b683ed895feef1a72e25a614c2b0177a5d50d/src/portada.jpeg" alt="Imagen 3" width="800" height="350">
 </div>
 </br>
 
