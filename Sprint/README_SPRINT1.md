@@ -4,10 +4,10 @@
 ## 1. ¿Quienes Somos?:
 
 <p align="center">
-    <img src="src/LogoDatalk.JPG" alt="Proyecto-final-Henry" width="250">
+    <img src="https://github.com/jdbaquero84/NY_cabs_consultant/blob/7107c08ca7e260eb2952ba3be2c6aeb543567935/src/LogoDatalk.JPG" width="250">
 </p>
 
-En Datalk somos especialistas en transformar datos en conocimiento accionable, a través de soluciones personalizadas ,ayudamos a las organizaciones a optimizar sus procesos, mejorar la toma de decisiones y alcanzar sus objetivos estratégicos. Contamos con un equipo multidisciplinario de expertos en ciencia de datos, machine learning e inteligencia artificial,  además de ofrecer  un portafolio de servicios completo en cuanto a tratamiento de datos. (Pegar imagen equipo de trabajo)
+En Datalk somos especialistas en transformar datos en conocimiento accionable, a través de soluciones personalizadas ,ayudamos a las organizaciones a optimizar sus procesos, mejorar la toma de decisiones y alcanzar sus objetivos estratégicos. Contamos con un equipo multidisciplinario de expertos en ciencia de datos, machine learning e inteligencia artificial,  además de ofrecer  un portafolio de servicios completo en cuanto a tratamiento de datos. 
 
 
 ## 2. Nuestro Cliente
@@ -74,8 +74,9 @@ Seleccionamos los siguientes KPI para el proyecto, junto con sus fórmulas de c�
 
 Evaluamos y seleccionamos las herramientas, lenguajes de programación y plataformas que mejor se adaptarían a las necesidades del proyecto.
 
-![Diagrama explicativo](src/stack_tecnologico.png)
-
+<p align="center">
+    <img src="https://github.com/jdbaquero84/NY_cabs_consultant/blob/9ad9ba13fa15493a6e84304a2c9dff5d063db4e4/src/stack_tecnologico.png" width="250">
+</p>
 
  ## 10. Metodología y Planificación:
    -  Metodología: Se utiliza SCRUM, un  marco de trabajo ágil, a través del cual un equipo pueden abordar problemas complejos a la vez que se entregan productos con el máximo valor. Es un enfoque más flexible e iterativo que permite responder y adaptarse continuamente al entorno para construir el mejor producto final para el cliente.
