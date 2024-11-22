@@ -51,3 +51,42 @@ Con el objetivo de optimizar la gestión de flotas de taxis y contribuir a la to
 </div>
 </br>
 
+## Conclusiones
+Las ciudades más grandes del mundo están experimentando una transformación significativa hacia sistemas de transporte más ecológicos debido a los altos niveles de contaminación y emisiones de CO2. Este cambio es fundamental para mitigar los efectos negativos del cambio climático y mejorar la calidad del aire en las áreas urbanas. A medida que las ciudades crecen, la necesidad de soluciones sostenibles se vuelve más urgente. La adopción de vehículos eléctricos y el fomento de opciones de transporte público limpio son pasos cruciales en esta dirección. Además, las políticas gubernamentales que promueven el uso de tecnologías verdes en el transporte urbano juegan un papel esencial en este proceso de transición.
+
+En ciudades como Nueva York, las oportunidades de negocio para las empresas de transporte con enfoque sostenible están en auge. La creciente demanda de soluciones de movilidad respetuosas con el medio ambiente ha abierto un mercado lucrativo para empresas innovadoras. Estas empresas tienen la oportunidad de liderar la transición hacia un transporte urbano más limpio, aprovechando las ventajas competitivas que les ofrece el apoyo gubernamental y la preferencia del consumidor por servicios sostenibles. Invertir en tecnologías de transporte verde no solo es beneficioso para el medio ambiente, sino que también representa una ventaja estratégica a largo plazo en términos de rentabilidad y sostenibilidad empresarial.
+
+La evaluación del modelo ARIMA frente al modelo VAR, mediante el análisis del error cuadrático medio, ha demostrado que el ARIMA es más preciso para predecir la cantidad de viajes. Este hallazgo es crucial para las empresas y los planificadores urbanos, ya que les permite realizar pronósticos más fiables y tomar decisiones informadas sobre la gestión del transporte. Además, controlar las emisiones de CO2 es posible mediante la implementación de límites de velocidad, lo que no solo reduce la contaminación, sino que también mejora la seguridad vial. Por último, es importante considerar que los determinantes de la tarifa por viaje incluyen varios factores como la distancia, el tiempo de recorrido, la franja horaria y el tipo de vehículo. Tener en cuenta estos elementos es esencial para establecer tarifas justas y competitivas en el mercado de transporte.
+
+## Recomendaciones
+### Fomento de Transporte Ecológico
+**Promoción de Vehículos Eléctricos y Híbridos:**
+
+Las grandes ciudades deben incentivar el uso de vehículos eléctricos e híbridos, ofreciendo subsidios y beneficios fiscales tanto a consumidores como a fabricantes. Además, invertir en la infraestructura de carga para vehículos eléctricos es esencial para apoyar esta transición.
+
+**Expansión y Mejora del Transporte Público:**
+
+Aumentar la eficiencia, accesibilidad y calidad del transporte público puede reducir significativamente las emisiones de CO2. Implementar autobuses eléctricos y sistemas de metro eficientes es crucial para alcanzar estos objetivos.
+### Oportunidades de Negocio en Transporte Sostenible
+**Inversión en Innovación y Tecnología Verde:**
+
+Las empresas de transporte en Nueva York y otras grandes ciudades tienen una gran oportunidad para liderar el mercado invirtiendo en tecnologías verdes. Esto incluye el desarrollo de aplicaciones de movilidad sostenible y servicios de transporte compartido.
+
+**Alianzas Estratégicas y Colaboraciones:**
+
+Formar alianzas con gobiernos locales y organizaciones no gubernamentales puede facilitar la adopción de soluciones de transporte sostenible, así como mejorar la percepción pública y aumentar la demanda de estos servicios.
+### Optimización de Modelos de Predicción y Tarifas
+
+**Uso de Modelos Predictivos Precisos:** 
+
+Como el modelo ARIMA ha demostrado ser más preciso que el VAR en la predicción de la cantidad de viajes, las empresas y planificadores urbanos deberían priorizar el uso de modelos predictivos robustos y ajustados a sus necesidades específicas para la toma de decisiones.
+
+**Control de Emisiones mediante Políticas de Velocidad:**
+
+Implementar límites de velocidad específicos puede ayudar a reducir las emisiones de CO2 de manera efectiva. Estas políticas no solo benefician al medio ambiente, sino que también mejoran la seguridad vial.
+
+**Establecimiento de Tarifas Transparentes y Equitativas:**
+
+Considerar factores como la distancia, el tiempo de recorrido, la franja horaria y el tipo de vehículo para establecer tarifas de viaje justas y competitivas. La transparencia en los costos puede aumentar la confianza y satisfacción del cliente, así como fomentar el uso de servicios de transporte sostenible.
+Estas recomendaciones están diseñadas para ayudar a las ciudades y empresas a avanzar hacia un sistema de transporte más limpio, eficiente y sostenible, mientras se aprovechan las oportunidades de negocio emergentes en el sector.
+
