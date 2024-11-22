@@ -47,7 +47,7 @@ Con el objetivo de optimizar la gestión de flotas de taxis y contribuir a la to
  El siguiente diagrama de entidad-relación (ER) es esencial para diseñar bases de datos, representando gráficamente las entidades y sus relaciones. Facilita la comprensión de la estructura de datos y mejora la comunicación entre diseñadores y usuarios. En esta presentación, destacaremos sus componentes clave y su importancia en la gestión de la información.
 
 <div style="display: flex; justify-content:space-between;">
-        <img src="" alt="Imagen 3" width="800" height="350">
+        <img src="https://github.com/jdbaquero84/NY_cabs_consultant/blob/893b2d99ee83e4d394fb78b3d87c12307448184f/src/DER.jpeg" alt="Imagen 3" width="800" height="350">
 </div>
 </br>
 
